@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/ic_bt01" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt02" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt03" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt04" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt05" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt06" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt06" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt07" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt08" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt09" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt10" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt11" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt12" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt13" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt14" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt15" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt16" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt17" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt18" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt19" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt20" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt21" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt22" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt23" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt24" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt25" android:duration="30" />
+    <item android:drawable="@drawable/ic_bt26" android:duration="30" />
+</animation-list>
